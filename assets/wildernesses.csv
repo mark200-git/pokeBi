@@ -1,0 +1,48 @@
+id_wilderness,wilderness_name,id_region
+1,Łąka,1
+2,Las,1
+3,Wybrzeże,1
+4,Morze,1
+5,Góry,1
+6,Jaskinie,1
+7,Opuszczone Miasto,1
+8,Safari,1
+9,Równina,2
+10,Puszcza,2
+11,Jezioro,2
+12,Wulkan,2
+13,Ruiny Miasta,2
+14,Park Narodowy,2
+15,Alejka Spacerowa,3
+16,Pustynia,3
+17,Głębina,3
+18,Ogród,3
+19,Opuszczona Elektrownia,3
+20,Nawiedzona Wieża,3
+21,Meteorytowa Góra,3
+22,Gęsty Zagajnik,4
+23,Dolina Wiatraków,4
+24,Koronny Szczyt,4
+25,Potrójny Staw,4
+26,Pustynia Lodowa,4
+27,Wielkie Bagna,4
+28,Ranczo,5
+29,Most Zwodzony Driftveil,5
+30,Cudowny Most,5
+31,Strzelisty Most,5
+32,Most Sieci Metra,5
+33,Wiejski Most,5
+34,Jaskinia Elektrokamieni,5
+35,Reliktowy Zamek,5
+36,Francuski Labirynt,6
+37,Lazurowa Zatoka,6
+38,Mroczna Gęstwina,6
+39,Lustrzana Grota,6
+40,Oszroniona Pieczara,6
+41,Przyjazne Safari,6
+42,Wzgórze Strumyków,7
+43,Bujna Dżungla,7
+44,Plaża Wielkiej Fali,7
+45,Wulkaniczny Park,7
+46,Wielki Kanion Poni,7
+47,Góra Lanakila,7

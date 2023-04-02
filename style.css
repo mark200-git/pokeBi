@@ -1,0 +1,19 @@
+.record{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+.select{
+    width: 50px;
+}
+.title_bilans{
+    font-size: 24px;
+    font-weight: bold;
+    color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.rare{
+    font-size: 14px;
+    
+}
